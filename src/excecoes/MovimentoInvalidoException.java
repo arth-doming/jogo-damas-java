@@ -13,10 +13,18 @@ public class MovimentoInvalidoException extends Exception
         this.colunaDestino = colunaDestino;
 
     }
-    public int getLinhaOrigem() { return linhaOrigem; }
-    public int getColunaOrigem()  { return colunaOrigem; }
-    public int getLinhaDestino()  { return linhaDestino; }
-    public int getColunaDestino() { return colunaDestino; }
+    public int getLinhaOrigem() {
+        return linhaOrigem;
+    }
+    public int getColunaOrigem() {
+        return colunaOrigem;
+    }
+    public int getLinhaDestino() {
+        return linhaDestino;
+    }
+    public int getColunaDestino() {
+        return colunaDestino;
+    }
 
     @Override
 
