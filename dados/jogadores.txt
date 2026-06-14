@@ -1,4 +1,4 @@
 # Formato: NOME,COR
 # COR deve ser BRANCA ou PRETA
-Alice,BRANCA
-Bob,PRETA
+Luis,BRANCA
+Jair,PRETA
